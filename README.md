@@ -2,8 +2,8 @@
 
 ### Software Engineer
 
-* 👨‍💻  Currently mostly into webapps and devtools. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
-* 🌍  Based in UK 🇬🇧+
+* 👨‍💻  Currently mostly into webapps and websites. I Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) Stack.
+* 🌍  Based in UK 🇬🇧+44
 * 🤓  "Best way to learn is to keep shipping" - [MohammedHaydar](https://www.linkedin.com/in/mohammedhaydar)
 
 

@@ -9,9 +9,17 @@
 
 ### MY Stats
 
-<div style="display: flex;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=MHMDHIDR&show_icons=true&hide=&count_private=true&title_color=2563eb&text_color=2563eb&icon_color=0891b2&bg_color=dbd4e5&hide_border=true&show_icons=true" alt="Mohammed Hayder's GitHub stats" height="230" />
-</div>
+
+[![Mohammed Haydar stats](https://github-readme-stats.vercel.app/api?username=MHMDHIDR&layout=compact&show_icons=true&theme=algolia)](https://github.com/MHMDHIDR/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHMDHIDR&layout=compact&theme=algolia)](https://github.com/MHMDHIDR/github-readme-stats)
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MHMDHIDR&layout=compact&theme=algolia)](https://git.io/streak-stats)
+
 
 
 ### Tech I'm Passionate About

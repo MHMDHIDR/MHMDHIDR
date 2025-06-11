@@ -13,9 +13,7 @@
 [![Mohammed Haydar stats](https://github-readme-stats.vercel.app/api?username=MHMDHIDR&layout=compact&show_icons=true&theme=algolia)](https://github.com/MHMDHIDR/github-readme-stats)
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHMDHIDR&layout=compact&theme=algolia)](https://github.com/MHMDHIDR/github-readme-stats)
-
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MHMDHIDR&layout=compact&theme=algolia)](https://git.io/streak-stats)

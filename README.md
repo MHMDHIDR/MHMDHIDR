@@ -1,6 +1,6 @@
-### Hello Matey 👋 I'm Mohammed Hayder.
+# Mohammed Haydar | Senior Software Engineer
 
-### Software Engineer
+### Hello Matey 👋
 
 * 👨‍💻  Currently mostly into webapps and websites. I Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) Stack.
 * 🌍  Based in UK 🇬🇧+44
@@ -20,7 +20,7 @@
 
 
 
-### Tech I'm Passionate About
+### MY LOVE
 <div style="display: flex;">
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
   <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>

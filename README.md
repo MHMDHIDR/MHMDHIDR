@@ -7,20 +7,26 @@
 * 🤓  "Best way to learn is to keep shipping" - [MohammedHaydar](https://www.linkedin.com/in/mohammedhaydar)
 
 
-### MY Stats
-
+### Stats 📊
 
 [![Mohammed Haydar stats](https://github-readme-stats.vercel.app/api?username=MHMDHIDR&layout=compact&show_icons=true&theme=algolia)](https://github.com/MHMDHIDR/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHMDHIDR&layout=compact&theme=algolia)](https://github.com/MHMDHIDR/github-readme-stats)
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MHMDHIDR&layout=compact&theme=algolia)](https://git.io/streak-stats)
 
+---
 
+### Currently Exploring 🤓
 
-### MY LOVE
+<div style="display: flex;">
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" /></a>
+  <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="48" height="48" alt="Rust" /></a>
+</div>
+
+---
+
+### My LOVE ♥️
 <div style="display: flex;">
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
   <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
